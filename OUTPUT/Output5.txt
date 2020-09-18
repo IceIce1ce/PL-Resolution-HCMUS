@@ -1,0 +1,16 @@
+4
+-C OR F
+C
+-A OR -B OR F
+-B OR -C
+6
+-A OR F
+-C
+-B OR F
+-A OR -B
+F
+-B
+2
+-A
+{}
+YES
